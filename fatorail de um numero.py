@@ -1,5 +1,5 @@
 
-#exemplo - fatorail de um numero
+#exemplo - fatorial de um numero
 '''
 crie um programa que recebe um numero e imprime o seu fatorial
 lembre-se de usar o metodo 5Q's para montar o algoritmo
